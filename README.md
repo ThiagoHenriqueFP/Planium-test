@@ -1,7 +1,9 @@
 # Planium test
 
 ## visão geral
+
 <br>
+
 👨🏻‍💻 - Teste para adimissão na empresa Planium
 
 <br>
@@ -17,7 +19,9 @@
 ---
 
 ## Ferramentas
+
 <br>
+
 ⚙️ - Back end &rarr; Node.js
 
 <br>
